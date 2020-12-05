@@ -2,8 +2,24 @@ body {
   margin: 0;
 }
 
-div {
+.top-container {
   background-color: #edcfa9;
+  padding: 20px;
+  text-align: center;
+}
+
+.top-cloud {
+  position: relative;
+}
+
+.bottom-cloud {
+
+}
+
+.bottom-container {
+  background-color: green;
+  width: 200px;
+  height: 200px;
 }
 
 h1 {
