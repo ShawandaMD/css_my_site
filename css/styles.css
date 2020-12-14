@@ -4,6 +4,10 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+.body-img {
+  width: 200px;
+}
+
 .top-container {
   background-color: #e8ffff;
   position: relative;
@@ -20,9 +24,7 @@ body {
 }
 
 .bottom-container {
-  background-color: green;
-  width: 200px;
-  height: 200px;
+
 }
 
 h1 {
