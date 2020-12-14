@@ -18,8 +18,13 @@ body {
 
 h1 {
   font-family: 'Lobster', cursive;
-  font-size: 2.5rem;
-  margin-top: 0;
+  font-size: 2.7rem;
+  margin: 30px auto 0 auto;
+}
+
+h2 {
+  font-size: 1.50rem;
+  margin: 10px auto 30px auto;
 }
 
 .top-container {
