@@ -71,3 +71,31 @@ h3 {
   position: relative;
   left: 250px;
 }
+
+
+.contact-button {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 1rem;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #11999E;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 30px auto 30px auto;
+}
+
+.contact-button:hover {
+   background: #19AEBB;
+   border: solid #FFFFFF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
