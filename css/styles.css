@@ -2,10 +2,42 @@ a {
   color: #11999E;
 }
 
+a:hover {
+  color: #FFFFFF;
+}
+
 body {
   margin: 0;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
+  color: #40514E
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 2.7rem;
+  margin: 30px auto 0 auto;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 1.50rem;
+  margin: 10px auto 30px auto;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+hr {
+  color: #E8E8E8;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 4px;
+  width: 10%;
+  padding: 10px;
 }
 
 .yoga-img {
@@ -32,24 +64,6 @@ body {
   position: absolute;
 }
 
-h1 {
-  font-family: 'Lobster', cursive;
-  font-size: 2.7rem;
-  margin: 30px auto 0 auto;
-  color: #66BFBF;
-}
-
-h2 {
-  font-size: 1.50rem;
-  margin: 10px auto 30px auto;
-  color: #66BFBF;
-  font-weight: normal;
-}
-
-h3 {
-  color: #11999E;
-}
-
 .skill-row {
   width: 50%;
   margin: auto;
@@ -58,7 +72,7 @@ h3 {
 }
 
 .skills p{
-  margin: auto auto 100px auto
+  margin: auto auto 75px auto
 }
 
 .top-container {
@@ -70,7 +84,6 @@ h3 {
 .top-container .subtitle {
   font-weight: normal;
 }
-
 
 .top-cloud {
   position: relative;
