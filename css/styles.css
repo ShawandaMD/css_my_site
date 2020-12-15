@@ -17,6 +17,10 @@ body {
   width: 200px;
 }
 
+.profile {
+  font-weight: bold;
+}
+
 .computer-img {
   float: left;
   margin-right: 30px;
@@ -72,6 +76,21 @@ h3 {
   left: 250px;
 }
 
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 40px;
+  font-size: 75%;
+}
+
+.bottom-container p {
+  color: #EAF6F6;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.footer-link {
+  margin: 10px 10px 10px 10px;
+}
 
 .contact-button {
    -webkit-border-radius: 20px;
@@ -83,7 +102,6 @@ h3 {
    font-weight: 100;
    padding: 10px;
    background-color: #11999E;
-   border: solid #337FED 1px;
    text-decoration: none;
    display: inline-block;
    cursor: pointer;
